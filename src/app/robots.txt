@@ -1,0 +1,31 @@
+#    .__________________________.
+#    | .___________________. |==|
+#    | | ................. | |  |
+#    | | ::[ Dear robot ]: | |  |
+#    | | ::::[ be nice ]:: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | |  |
+#    | | ::::::::::::::::: | | ,|
+#    | !___________________! |(c|
+#    !_______________________!__!
+#   /                            \
+#  /  [][][][][][][][][][][][][]  \
+# /  [][][][][][][][][][][][][][]  \
+#(  [][][][][____________][][][][]  )
+# \ ------------------------------ /
+#  \______________________________/
+
+User-Agent: bender
+Disallow: /my_shiny_metal_ass
+
+User-agent: *
+Disallow: /sus.txt
+
+# Sitemap
+Sitemap: https://pwn.charity/sitemap.xml
+
+# P.S. If you're an ethical hacker checking our security,
+# Check out our security.txt and get in contact!
+# https://cyber.info/.well-known/security.txt
+# Together, we can make the web a safer place.

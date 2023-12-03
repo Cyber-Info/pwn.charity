@@ -1,0 +1,16 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Contact: https://federacy.com/cyber-info
+Encryption: https://cyber.info/pgp-key.txt
+Acknowledgments: https://cyber.info/disclosure/hall-of-fame
+Preferred-Languages: en
+Canonical: https://cyber.info/.well-known/security.txt
+Policy: https://federacy.com/cyber-info
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQt/uGCPrQYb/29txhR+DClQ6re7wUCZHPwcAAKCRBR+DClQ6re
+78ANAQCJsHVL3HNKuAohRu29KhCbgb0UAy1RL2ODeNFV/2oD8wD+OD+30D4WJ87j
+0rEH+V6nWbqLKsFy3KCIk3quDMJJFgU=
+=rrKV
+-----END PGP SIGNATURE-----

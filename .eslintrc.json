@@ -1,0 +1,41 @@
+{
+    "extends": ["next", "plugin:@typescript-eslint/recommended", "prettier"],
+    "plugins": ["@typescript-eslint", "import"],
+    "parserOptions": {
+        "project": "./tsconfig.json"
+    },
+    "parser": "@typescript-eslint/parser",
+    "rules": {
+        "react/jsx-indent": ["error", 4],
+        "react/jsx-indent-props": ["error", 4],
+        "import/extensions": "off",
+        "react/jsx-props-no-spreading": "off",
+        "react/prop-types": "off",
+        "react/require-default-props": "off",
+        "jsx-a11y/heading-has-content": "off",
+        "import/prefer-default-export": "off",
+        "react/no-unknown-property": [
+            "warn",
+            {
+                "ignore": ["jsx", "global"]
+            }
+        ],
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": ["off"],
+        "react/jsx-no-constructed-context-values": "off",
+        "jsx-a11y/anchor-is-valid": "off",
+        "react/jsx-pascal-case": "off",
+        "no-param-reassign": "off",
+        "no-return-assign": "off",
+        "radix": "off",
+        "no-empty": "warn",
+        "no-console": "off",
+        "linebreak-style": "off",
+        "no-process-env": "off"
+    },
+    "settings": {
+        "react": {
+            "version": "detect"
+        }
+    }
+}
