@@ -40,7 +40,7 @@ const people = [
 
 export default function CurrentMembers() {
     return (
-        <ul role="list" className="divide-y divide-[#003b00]">
+        <ul role="list" className="divide-y divide-[#003b00]/40">
             {people.map((person) => (
                 <li
                     key={person.handle}
