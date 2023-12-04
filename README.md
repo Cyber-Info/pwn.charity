@@ -29,7 +29,7 @@ Interested in joining pwn.charity or supporting our mission? Here’s how you ca
 
 For more information about Cyber Info, pwn.charity, or how you can get involved, please reach out to us at [hello@cyber.info](mailto:hello@cyber.info) or [cyber.info/contact](https://cyber.info/contact).
 
-## Acknowledgements
+## Acknowledgments
 
 We thank all our supporters, team members, and the broader cybersecurity community for their ongoing support and contributions.
 
